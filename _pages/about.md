@@ -26,9 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a **computational chemist and enzymologist** currently a postdoctoral researcher at **Georgia Institute of Technology**, working in the Kamerlin lab.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on **enzyme catalysis, DNA polymerases, and biocatalyst design**, combining **QM/MM molecular dynamics, enhanced sampling techniques, and machine-learning–based models** to uncover catalytic mechanisms and guide rational engineering.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am particularly interested in **water-mediated catalytic networks**, **polymerase fidelity and selectivity**, and the development of **AI-driven workflows** for enzyme design and functional prediction.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
+
