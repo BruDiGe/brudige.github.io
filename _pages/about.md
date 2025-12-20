@@ -26,11 +26,11 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a **computational chemist and enzymologist** currently a postdoctoral researcher at **Georgia Institute of Technology**, working in the Kamerlin lab.
+I am a ** pharmacist and computational chemist** currently working as senior postdoctoral researcher at **Georgia Institute of Technology**, in the Kamerlin lab.
 
-My research focuses on **enzyme catalysis, DNA polymerases, and biocatalyst design**, combining **QM/MM molecular dynamics, enhanced sampling techniques, and machine-learning–based models** to uncover catalytic mechanisms and guide rational engineering.
+My research focuses on **enzyme catalysis, de novo biocatalyst design and drug discovery**, combining different computational tools such as  **QM/MM, enhanced sampling techniques, and machine-learning–based models** to uncover catalytic mechanisms and guide rational engineering.
 
-I am particularly interested in **water-mediated catalytic networks**, **polymerase fidelity and selectivity**, and the development of **AI-driven workflows** for enzyme design and functional prediction.
+I am particularly interested in **water-mediated catalytic networks**, **de novo enzyme design to improve thermal stability and selectivity**, and the development of **AI-driven workflows** for enzyme design and functional prediction.
 
 
 
