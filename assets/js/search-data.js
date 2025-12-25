@@ -405,11 +405,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-",
-          title: '',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_1/";
             },},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
@@ -417,6 +412,9 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-invited-to-serve-on-the-external-advisory-board-of-the-fwf-doc-funds-doctoral-network-biotechpredict-invitation-letter-pdf",
+          title: 'Invited to serve on the External Advisory Board of the FWF doc.funds doctoral...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
