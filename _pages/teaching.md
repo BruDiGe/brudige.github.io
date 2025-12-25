@@ -16,7 +16,6 @@ nav_order: 6
   </div>
   <div class="col-md-10">
     <h4>Georgia Institute of Technology</h4>
-
     <ul>
       <li><b>Head of Teaching</b>, CHEM 3511 – Survey on Biochemistry <span class="text-muted">(Spring 2025)</span></li>
       <li><b>Teaching Assistant</b>, CHEM 8853 – Introduction to Biomolecular Modeling <span class="text-muted">(Fall 2025)</span></li>
