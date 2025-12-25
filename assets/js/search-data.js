@@ -453,6 +453,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-mechanistic-amdase-engineering",
+          title: 'Mechanistic AMDase Engineering',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/amdase/";
             },},{
         id: 'social-cv',
         title: 'CV',
