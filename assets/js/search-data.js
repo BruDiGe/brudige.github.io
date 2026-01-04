@@ -408,12 +408,7 @@ ninja.data = [{
             },},{id: "news-invited-to-serve-on-the-external-advisory-board-of-the-fwf-doc-funds-doctoral-network-biotechpredict-invitation-letter-pdf",
           title: 'Invited to serve on the External Advisory Board of the FWF doc.funds doctoral...',
           description: "",
-          section: "News",},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
+          section: "News",},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
           section: "Projects",handler: () => {
