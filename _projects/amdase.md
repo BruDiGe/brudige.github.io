@@ -24,7 +24,7 @@ leveraged this insight to improve selectivity in non-native reactions.
 
 ### Key Links
 
-[📄 JACS paper](https://doi.org/10.1021/acs.jacs.5c10721)  
+[📄 JACS paper](https://pubs.acs.org/doi/10.1021/jacs.5c10721)  
 
 ---
 
