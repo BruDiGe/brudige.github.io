@@ -455,7 +455,7 @@ ninja.data = [{
               window.location.href = "/projects/9_project/";
             },},{id: "projects-mechanistic-amdase-engineering",
           title: 'Mechanistic AMDase Engineering',
-          description: "",
+          description: "Mechanistic elucidation and stereochemical consequences of alternative substrate binding in engineered AMDase.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amdase/";
             },},{
