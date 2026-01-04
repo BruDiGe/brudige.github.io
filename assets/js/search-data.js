@@ -408,12 +408,7 @@ ninja.data = [{
             },},{id: "news-invited-to-serve-on-the-external-advisory-board-of-the-fwf-doc-funds-doctoral-network-biotechpredict-invitation-letter-pdf",
           title: 'Invited to serve on the External Advisory Board of the FWF doc.funds doctoral...',
           description: "",
-          section: "News",},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "projects-mechanistic-amdase-engineering",
+          section: "News",},{id: "projects-mechanistic-amdase-engineering",
           title: 'Mechanistic AMDase Engineering',
           description: "Mechanistic elucidation and stereochemical consequences of alternative substrate binding in engineered AMDase.",
           section: "Projects",handler: () => {
