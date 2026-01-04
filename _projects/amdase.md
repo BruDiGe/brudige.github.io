@@ -1,9 +1,11 @@
 ---
 title: Mechanistic AMDase Engineering
-permalink: /projects/amdase/
-image: amdase-mechanism.png
-categories: [Biocatalysis, Mechanism, Enzyme Design]
+description: Mechanistic elucidation and stereochemical consequences of alternative substrate binding in engineered AMDase.
+category: work
+importance: 1
+img: assets/img/projects/amdase-mechanism.png
 ---
+
 
 ## Mechanistic Elucidation & Stereochemical Control in AMDase
 
