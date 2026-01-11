@@ -418,7 +418,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:{"%69%63%6F%6E"=>"%66%61%73 %66%61-%65%6E%76%65%6C%6F%70%65", "%75%72%6C"=>"%6D%61%69%6C%74%6F:%62%67%65%72%6F%6E%69%6D%6F%33@%67%61%74%65%63%68.%65%64%75"}", "_blank");
+          window.open("mailto:{"%74%69%74%6C%65"=>"%45%6D%61%69%6C", "%75%72%6C"=>"%6D%61%69%6C%74%6F:%62%67%65%72%6F%6E%69%6D%6F%33@%67%61%74%65%63%68.%65%64%75", "%69%63%6F%6E"=>"%66%61%73 %66%61-%65%6E%76%65%6C%6F%70%65"}", "_blank");
         },
       },{
         id: 'social-cv',
@@ -449,8 +449,8 @@ ninja.data = [{
           window.open("https://github.com/BruDiGe", "_blank");
         },
       },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
+        id: 'social-publons',
+        title: 'Publons',
         section: 'Socials',
         handler: () => {
           window.open("https://publons.com/researcher/1863029/bruno-bdg-di-geronimo/", "_blank");
