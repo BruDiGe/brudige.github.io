@@ -1,31 +1,10 @@
-email:
-  title: "Email"
-  url: "mailto:bgeronimo3@gatech.edu"
-  icon: "fas fa-envelope"
+cv_pdf: /assets/pdf/CV-Bruno-Di-Geronimo.pdf
+email: bgeronimo3@gatech.edu
 
-cv:
-  title: "CV"
-  url: "/assets/pdf/CV-Bruno-Di-Geronimo.pdf"
-  icon: "fas fa-file-pdf"
+orcid_id: 0000-0002-8243-936X
+linkedin_username: bruno-di-geronimo-quintero-075700a2
+github_username: BruDiGe
 
-orcid:
-  title: "ORCID"
-  url: "https://orcid.org/0000-0002-8243-936X"
-  icon: "ai ai-orcid"
+publons_id: 1863029/bruno-bdg-di-geronimo
 
-linkedin:
-  title: "LinkedIn"
-  url: "https://www.linkedin.com/in/bruno-di-geronimo-quintero-075700a2/"
-  icon: "fab fa-linkedin"
-
-github:
-  title: "GitHub"
-  url: "https://github.com/BruDiGe"
-  icon: "fab fa-github"
-
-publons:
-  title: "Publons"
-  url: "https://publons.com/researcher/1863029/bruno-bdg-di-geronimo/"
-  logo: "/assets/img/socials/publons.png"
-
-
+rss_icon: false
