@@ -414,46 +414,46 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/amdase/";
             },},{
-        id: 'social-',
-        title: '',
+        id: 'social-email',
+        title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("mailto:{"%75%72%6C"=>"%6D%61%69%6C%74%6F:%62%67%65%72%6F%6E%69%6D%6F%33@%67%61%74%65%63%68.%65%64%75", "%69%63%6F%6E"=>"%66%61%73 %66%61-%65%6E%76%65%6C%6F%70%65", "%74%69%74%6C%65"=>"%45%6D%61%69%6C"}", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-cv',
+        title: 'Cv',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("/assets/pdf/CV-Bruno-Di-Geronimo.pdf", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-orcid',
+        title: 'Orcid',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://orcid.org/0000-0002-8243-936X", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-linkedin',
+        title: 'Linkedin',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://www.linkedin.com/in/bruno-di-geronimo-quintero-075700a2/", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-github',
+        title: 'Github',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://github.com/BruDiGe", "_blank");
         },
       },{
-        id: 'social-',
-        title: '',
+        id: 'social-publons',
+        title: 'Publons',
         section: 'Socials',
         handler: () => {
-          window.open("", "_blank");
+          window.open("https://publons.com/researcher/1863029/bruno-bdg-di-geronimo/", "_blank");
         },
       },{
       id: 'light-theme',
