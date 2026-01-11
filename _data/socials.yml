@@ -1,23 +1,30 @@
-- title: email
+email:
   url: mailto:bgeronimo3@gatech.edu
-  icon: fa-solid fa-envelope
+  icon: fas fa-envelope
+  title: Email
 
-- title: cv
+cv:
   url: /assets/pdf/CV-Bruno-Di-Geronimo.pdf
-  icon: fa-solid fa-file-pdf
+  icon: fas fa-file-pdf
+  title: CV
 
-- title: orcid
+orcid:
   url: https://orcid.org/0000-0002-8243-936X
-  icon: fa-brands fa-orcid
+  icon: ai ai-orcid
+  title: ORCID
 
-- title: linkedin
+linkedin:
   url: https://www.linkedin.com/in/bruno-di-geronimo-quintero-075700a2/
-  icon: fa-brands fa-linkedin
+  icon: fab fa-linkedin
+  title: LinkedIn
 
-- title: github
+github:
   url: https://github.com/BruDiGe
-  icon: fa-brands fa-github
+  icon: fab fa-github
+  title: GitHub
 
-- title: publons
+publons:
   url: https://publons.com/researcher/1863029/bruno-bdg-di-geronimo/
-  icon: fa-solid fa-award
+  title: Publons
+  logo: /assets/img/social/publons.png
+
