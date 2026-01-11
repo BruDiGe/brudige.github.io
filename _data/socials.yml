@@ -10,6 +10,10 @@
   url: https://orcid.org/0000-0002-8243-936X
   icon: fa-brands fa-orcid
 
+- title: linkedin
+  url: https://www.linkedin.com/in/bruno-di-geronimo-quintero-075700a2/
+  icon: fa-brands fa-linkedin
+
 - title: github
   url: https://github.com/BruDiGe
   icon: fa-brands fa-github
