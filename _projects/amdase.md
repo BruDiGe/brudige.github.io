@@ -15,7 +15,7 @@ the *alternative substrate binding modes* and how they affect product
 stereochemistry. Using enzyme engineering, QM/MM modeling, and enhanced
 sampling, we dissected the mechanistic origins of catalytic preference and
 leveraged this insight to improve selectivity in non-native reactions.
-We are now working on the de novo AMDase design improving its thermal stability.
+We are now working on the **de novo** AMDase design improving its thermal stability. Stay tunned! 
 
 ### Highlights
 
