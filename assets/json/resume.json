@@ -87,11 +87,7 @@
   "interests": [
     {
       "name": "Enzyme Design and Mechanistic Modeling",
-      "keywords": [
-        "Biocatalysis",
-        "Polymerase catalysis",
-        "De novo enzyme engineering"
-      ]
+      "keywords": ["Biocatalysis", "Polymerase catalysis", "De novo enzyme engineering"]
     }
   ]
 }
