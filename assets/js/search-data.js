@@ -432,7 +432,7 @@ ninja.data = [{
         title: 'ORCID',
         section: 'Socials',
         handler: () => {
-          window.open("https://orcid.org/0000-0002-8243-936X", "_blank");
+          window.open("https://orcid.org/0000-0003-1822-7142", "_blank");
         },
       },{
         id: 'social-linkedin',
