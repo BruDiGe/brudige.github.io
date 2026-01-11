@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Mechanistic AMDase Engineering
 description: Mechanistic elucidation and stereochemical consequences of alternative substrate binding in engineered AMDase.
 category: work
