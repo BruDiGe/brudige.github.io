@@ -4,7 +4,7 @@ title: SrBDH1 Enzyme Engineering
 description: AI-guided redesign of borneol dehydrogenase for improved thermostability while preserving stereoselectivity.
 category: work
 importance: 2
-img: assets/img/projects/wildtype-brp.gif
+img: assets/img/projects/wildtype-small.gif
 ---
 
 ## Engineering a Selective and Thermostable Borneol Dehydrogenase
