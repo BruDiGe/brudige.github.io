@@ -39,4 +39,4 @@ This work establishes an integrated framework for rational enzyme optimization u
 
 ## Representative Graphic
 
-{% include figure.liquid path="assets/img/projects/srbdh1.png" caption="SrBDH1 redesign workflow combining evolution, AI design, and simulations." class="img-fluid" %}
+{% include figure.liquid path="assets/img/projects/wildtype-small.gif" caption="SrBDH1 redesign workflow combining evolution, AI design, and simulations." class="img-fluid" %}
