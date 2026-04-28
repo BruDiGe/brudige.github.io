@@ -413,6 +413,11 @@ ninja.data = [{
           description: "Mechanistic elucidation and stereochemical consequences of alternative substrate binding in engineered AMDase.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/amdase/";
+            },},{id: "projects-srbdh1-enzyme-engineering",
+          title: 'SrBDH1 Enzyme Engineering',
+          description: "AI-guided redesign of borneol dehydrogenase for improved thermostability while preserving stereoselectivity.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/srbdh1/";
             },},{
         id: 'social-cv',
         title: 'CV',
